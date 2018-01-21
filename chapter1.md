@@ -1,6 +1,4 @@
-# 基础介绍changed
-
-changed
+# 基础介绍
 
 ## 开发环境安装
 
@@ -27,25 +25,9 @@ changed
 2. windows里覆盖保存文件名大小写不敏感。如hello world覆盖Hello World保存后仍为Hello World
 
 ### 运行过程
-```
-{% mermaid %}
-graph TD;
-A-->B;
-A-->C;
-B-->D;
-C-->D;
-{% endmermaid %}
 
-{% mermaid %}
-graph TD;
-A-->B;
-A-->C;
-B-->D;
-C-->D;
-{% endmermaid %}
-```
 ```mermaid
-graph TD;
+graph LR;
   A-->B;
   A-->C;
   B-->D;
