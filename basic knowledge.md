@@ -38,7 +38,7 @@ graph TB
 
 ### 环境变量
 
-`PATH`：Java开发工具的位置，如D:\jdk1.8.0\bin
+`PATH`：Java开发工具的位置，如`D:\jdk1.8.0\bin`
 
 `CLASSPATH`[^1]：JVM寻找字节码文件的位置
 
